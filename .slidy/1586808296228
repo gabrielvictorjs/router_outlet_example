@@ -1,0 +1,5 @@
+lib/app/modules/posts/posts_module.dart
+lib/app/modules/posts/posts_page.dart
+test/app/modules/posts/posts_page_test.dart
+lib/app/modules/posts/posts_bloc.dart
+test/app/modules/posts/posts_bloc_test.dart
